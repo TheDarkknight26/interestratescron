@@ -1,0 +1,6 @@
+{
+    "crons":[{
+        "path":"/ir_data.py",
+        "schedule":"0 9 * * *"
+    }]
+}
